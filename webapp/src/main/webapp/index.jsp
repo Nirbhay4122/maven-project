@@ -12,14 +12,17 @@
 
     .mainbox {
       border: 1px solid #000;
-      height: 100px;
+      height: auto;
       width: 100%;
+      padding: 40px;
+      text-align: center;
+      background-color: #ccc;
     }
   </style>
 </head>
 <body>
   <div class="mainbox">
-
+    <h1>Simple Maven Project</h1>
   </div>
 </body>
 </html>
