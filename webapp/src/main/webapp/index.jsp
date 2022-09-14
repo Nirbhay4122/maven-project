@@ -14,7 +14,6 @@
       border: 1px solid #000;
       height: auto;
       width: 100%;
-      padding: 40px;
       text-align: center;
       background-color: #ccc;
     }
